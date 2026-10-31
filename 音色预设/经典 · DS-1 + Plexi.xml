@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-58" release="70"/></Slot>
+  <Slot kind="builtin" id="distortion"><Params model="2" gain="28" tone="0.5" level="-12" mid="0" tight="150"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="5" gain="3.5" bass="5" mid="6" treble="5.5" presence="5.5" master="-6" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="1" size="0.45" damping="0.55" mix="0.14"/></Slot>
+</Chain>

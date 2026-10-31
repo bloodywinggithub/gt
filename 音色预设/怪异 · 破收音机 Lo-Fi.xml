@@ -1,0 +1,7 @@
+<Chain>
+  <Slot kind="builtin" id="distortion"><Params model="0" gain="22" tone="0.4" level="-14" mid="4" tight="350"/></Slot>
+  <Slot kind="builtin" id="geq"><Params b0="-12" b1="-10" b2="-2" b3="6" b4="5" b5="-8" b6="-12" level="3"/></Slot>
+  <Slot kind="builtin" id="tremolo"><Params rate="9" depth="0.25" wave="1"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="0" lowcut="200" bright="0.1" resonance="0" mic="0.8" level="0"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.25" damping="0.7" mix="0.12"/></Slot>
+</Chain>

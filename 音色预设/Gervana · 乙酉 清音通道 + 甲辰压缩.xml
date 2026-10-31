@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gv_jiachen"><Params level="4" sustain="0.5" attack="0.5" blend="0.7" trebleBoost="0" tubeSim="1"/></Slot>
+  <Slot kind="builtin" id="gv_yiyou"><Params channel="0" gain="5" volume="-6" low="5" mid="5" high="6" presence="5.5" resonance="1" output="1"/></Slot>
+  <Slot kind="builtin" id="chorus"><Params rate="0.6" depth="0.3" mix="0.3"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="1" size="0.6" damping="0.45" mix="0.22"/></Slot>
+</Chain>

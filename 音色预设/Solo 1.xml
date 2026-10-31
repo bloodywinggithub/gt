@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Chain>
+  <Slot bypass="0" kind="builtin" id="gate" state="144.VMjLgbH....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPGZxU1bn8Faj0iHsTCNt.iHfHWYrUVXyUVOhfCLt.iHfDFczE1Xq0iHv3RMv.CLv.CL0jiMvPiMzPCNh.hbgQWZu0iH23RN4jSN4jSMxLSL1HCNzHiHu3C."/>
+  <Slot bypass="0" kind="builtin" id="comp" state="191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPGZxU1bn8Faj0iHsHSMtLiMyXyL2jiLzDSNzLCMh.hbgQWZu0iHz3BLh.RXzQWXisVOhfiKv.CLv.iL3XSLvHiL4PSNh.hbkwVYgMWY8HRL0.iKv.CLvDSMxTCN2fSNwHBHsE1ZkUGb8HhMt.iHfP2atUVOh.iKvHBHhwVYtQVOh.iKvHxK9.."/>
+  <Slot bypass="0" kind="builtin" id="overdrive" state="144.VMjLgbH....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPlboYWY8HhLv3BLh.Bcu4VY8HBLtXCLv.CLv.iLyfCMwfSM2jiHfvVY1UFa8HRK13BLh.hXgM2b8HBLt.iHfHFak4FY8HBLt.iHfz1ajUFa8HBLt.iHu3C."/>
+  <Slot bypass="0" kind="builtin" id="amp" state="184.VMjLg7J....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfbVXo4VOhXiK0HBHhE1by0iH03BLh.RaoQVOhXiK0HBHzIWYhwVY8HRMtTiHf.mbkMWYtMVY8HhMt.iHfzVXyQWYx0iHsjiKvHBHiElX8HRLt.iHfX2aoMVZtcVOhDiKvHBHxU1bu4VXtMVY8HRMt.iHfHlbocFZz0iHv3BLh7hO.."/>
+  <Slot bypass="0" kind="builtin" id="boost" state="121.VMjLg.G....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfbVXo4VOhLiKvHBHhE1by0iHw3xLvjCL4DSM1bSN4LSL1PiHfPmbkIFak0iHsDiK2PSMzTCM2fCNx.CNv.CNh7hO.."/>
+  <Slot bypass="0" kind="builtin" id="delay" state="208.VMjLgbL....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPWZsUVOhPSL43RN4jSN1jCM3HCMxDSNh.hYkUFYhE1Xq0iHv3BMv.CLv.CLvTSN1.CM1PSMh.RaogWOh.iKy.CLv.CLvDSL4HCL4HSNh.Bcu4VY8HxLzjSNtjSN4bSM0fSM4LyM0HBHvklamA2atcVOhDiKvHBHzkGbk0iHv3BLh.RauQVOh.iKvHBHykmai0iHv3BLh7hO.."/>
+  <Slot bypass="0" kind="builtin" id="reverb" state="175.VMjLgXJ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPWdvUVOhDiKvHBHykldk0iHv3hMv.CLv.CLxLCNzDCN0bSNh.BYg0Fbo41Y8HBLtTiHf.mbkQVYrEVd8HRL03BLh.Bcu4VY8HBLtXCLv.CLv.iLyfCMwfSM2jiHfzVZ30iHv3hL3.CLv.CLvDSL4HCL4HSNh7hO.."/>
+  <Slot bypass="0" kind="builtin" id="geq" state="234.VMjLgDN....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfHFL8HRKw3RMxLCNvjCMyHSN3LyL4fiHfHVL8HBMtTyMwPiL3HSN3jSMvDSN0HBHhISOhDiKwPiL3TiM0jyM4.CLyjSLh.hXyziHsLiK1DSNvPyMwXCM4DiM4jiLh.hXzziHsLiK3.SN0HyL0fiLzTCNzjiMh.hX0ziHz3RL4.CM2TCM1LCN1bSL3fiHfHlM8HRKx3BN0bSLzHCMzfCMxTiL4LiHfvVY1UFa8HBLt.iHu3C."/>
+  <Slot bypass="0" kind="builtin" id="cab" state="177.VMjLgfJ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPWdvUVOhHiKvHBHr81ciUGc8HxM03BLh.hXxk1YnQWOh.iK1HiL2HyMxbCM3jCM2DCMzHBHxU1bu4VXtMVY8HhLtLCL4.SNvfSMxbyL2PiL2HBHrUlckwVOh.iKvHBHsk1X8HBLtLyLwfSL3DSNyDSN2HSMvPiHu3C."/>
+</Chain>

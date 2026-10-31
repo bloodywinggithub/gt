@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="nam" path="@app/音色库/NAM/Keith B klone_g6_t6_o5.nam"><Params output="0"/></Slot>
+  <Slot kind="nam" path="@app/音色库/NAM/Tim R Fender TwinVerb Norm Bright.nam"><Params output="12"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="1" mic="0.4" level="3"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.45" damping="0.5" mix="0.2"/></Slot>
+</Chain>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PROPERTIES>
+  <VALUE name="inputGainDb" val="19.0" />
+  <VALUE name="outputGainDb" val="0.5" />
+  <VALUE name="monitoring" val="1" />
+  <VALUE name="currentPreset" val="Gervana · 辛亥 弹簧清音（乙卯 AC30）" />
+  <VALUE name="currentChain">
+    <Chain>
+      <Slot bypass="0" kind="builtin" id="gv_jiachen" state="185.VMjLg.K....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfvVY1UFa8HxLt.iHfLWcyQWXo4VOh.iKz.CLv.CLv.SM4XCLzXCM0HBHgQGcgM1Z8HBLtXCLv.CLv.iLyfCMwfSM2jiHfHFak4FY8HBLtXCLv.CLv.iLyfCMwfSM2jiHfPmbkIFakIzauMGc8HRLt.iHfPWchU1To0VOh.iKvHxK9.." />
+      <Slot bypass="0" kind="builtin" id="gv_yimao" state="165.VMjLgvI....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfLFZg4lakwVOhDiKvHBHt8lbsEFa8HRMt.iHfHlbowFaoElaz0iH03BLh.hXgM2b8HBMtTiHfPmbkIFak0iH13BLh.Bcu4VYiUGc8HhLtTiHfzVXyQWYx0iHsfiKvHBHuUGcvUGc8HRLt.iHu3C." />
+      <Slot bypass="0" kind="builtin" id="gv_xinhai" state="297.VMjLg.R....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPElbg01bfPVYiEVd8HhMtTiHfzVZ30iHv3BMwjSN4jSN3XCN3XSN2fSLh.Bcu4VY8HRMtTiHf.mbkQVYrEVd8HRLx3BLh.Bco0VY8HxLwjiK4jSN4XSNzfiLzHSL4HBHlUVYjIVXisVOh.iKxDSN4jSN4jCN3.yM4.yMwHBHrUlckwVOh.iKwfCLv.CLv.yMwTiL0TyMzHBHjQ2atUVOhPiK0HBHxEFck0iHv3hMv.CLv.SLzLCL0DSLzbSMh.BYkAGcn0iHv3hLv.CLv.CLvHSN3.iLyHiLh.hbkYWYxI1St0iHw3BLh.BYkwVX48ja8HRLt.iHu3C." />
+    </Chain>
+  </VALUE>
+  <VALUE name="view" val="tone" />
+  <VALUE name="tabSpeed" val="85.0" />
+  <VALUE name="tabDemoDb" val="-3.0" />
+  <VALUE name="tabBackingDb" val="-3.0" />
+  <VALUE name="tabZoom" val="422.3173522949219" />
+  <VALUE name="tabCountIn" val="1" />
+  <VALUE name="tabMetronome" val="1" />
+  <VALUE name="tabDemo" val="1" />
+  <VALUE name="tabLastTrack" val="0" />
+  <VALUE name="judgeOn" val="1" />
+  <VALUE name="drumStyle" val="7" />
+  <VALUE name="drumChorus" val="0" />
+  <VALUE name="drumBpm" val="72.0" />
+  <VALUE name="drumSwing" val="0.0" />
+  <VALUE name="drumVolume" val="2.0" />
+  <VALUE name="drumFillEvery" val="4" />
+  <VALUE name="drumCountIn" val="1" />
+  <VALUE name="drumMetronome" val="1" />
+  <VALUE name="tabNoteNames" val="1" />
+  <VALUE name="trainerStart" val="0.6000000238418579" />
+  <VALUE name="trainerStep" val="0.05000000074505806" />
+  <VALUE name="trainerTarget" val="1.0" />
+  <VALUE name="trainerAccuracy" val="0.8999999761581421" />
+  <VALUE name="trainerPasses" val="2" />
+  <VALUE name="scaleRoot" val="9" />
+  <VALUE name="scaleFamily" val="1" />
+  <VALUE name="scaleMinor" val="1" />
+  <VALUE name="scaleMinorType" val="1" />
+  <VALUE name="scaleMode" val="5" />
+  <VALUE name="scalePosition" val="1" />
+  <VALUE name="scaleLabels" val="0" />
+  <VALUE name="scaleDirection" val="2" />
+  <VALUE name="scaleBpm" val="72.0" />
+  <VALUE name="scaleLoop" val="1" />
+  <VALUE name="looperOpen" val="1" />
+  <VALUE name="tabStaffView" val="0" />
+  <VALUE name="chordRoot" val="2" />
+  <VALUE name="chordQuality" val="3" />
+  <VALUE name="chordFlats" val="0" />
+  <VALUE name="chordKey" val="7" />
+  <VALUE name="chordKeyMinor" val="0" />
+  <VALUE name="chordSevenths" val="0" />
+  <VALUE name="dockTab" val="0" />
+  <VALUE name="transcribeLastFile" val="F:\歌儿\后朋克\Bleed Into The Wires.mp3" />
+  <VALUE name="transcribeSource" val="0" />
+  <VALUE name="transcribeGrid" val="0" />
+  <VALUE name="transcribeMode" val="0" />
+</PROPERTIES>

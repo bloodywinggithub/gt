@@ -1,0 +1,5 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-60" release="90"/></Slot>
+  <Slot kind="builtin" id="gv_wuwu"><Params level="-10" tone="0.55" presence="0.55" brightGain="0.8" normalGain="0.5" voice="0" clip="2" output="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="1" size="0.5" damping="0.55" mix="0.15"/></Slot>
+</Chain>

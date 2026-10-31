@@ -1,0 +1,8 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-66" release="90"/></Slot>
+  <Slot kind="builtin" id="comp"><Params threshold="-24" ratio="3" attack="12" release="150" makeup="3"/></Slot>
+  <Slot kind="builtin" id="amp"><Params gain="1.8" bass="5.5" mid="5" treble="6.2" presence="6" master="-4" cab="1"/></Slot>
+  <Slot kind="builtin" id="chorus" bypass="1"><Params rate="0.7" depth="0.35" mix="0.45"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="380" feedback="0.28" mix="0.2" tone="4500"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params size="0.55" damping="0.5" mix="0.26"/></Slot>
+</Chain>

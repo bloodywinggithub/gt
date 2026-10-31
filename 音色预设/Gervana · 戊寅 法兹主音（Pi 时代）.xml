@@ -1,0 +1,7 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-60" release="120"/></Slot>
+  <Slot kind="builtin" id="gv_wuyin"><Params volume="-10" sustain="0.7" tone="0.55" balance="0.7" mode="0" voice="1" filter="0" toneBypass="0"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="3" gain="3.5" bass="5" mid="6" treble="5.5" presence="5" master="-8" cab="1"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="460" feedback="0.35" mix="0.24" tone="3800" type="1" mod="0.2"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="1" size="0.7" damping="0.45" predelay="25" mix="0.24"/></Slot>
+</Chain>

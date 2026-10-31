@@ -1,0 +1,5 @@
+<Chain>
+  <Slot kind="builtin" id="gv_wuyin"><Params volume="-8" sustain="0.6" tone="0.5" balance="0.8" mode="1" voice="2" filter="1" toneBypass="0"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="7" gain="3.5" bass="4.5" mid="5.5" treble="6" presence="5.5" master="-8" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.45" damping="0.5" mix="0.18"/></Slot>
+</Chain>

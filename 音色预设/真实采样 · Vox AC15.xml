@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="nam" path="@app/音色库/NAM/Phillipe P VOXAC15-TopBoost.nam"><Params output="4"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="1" mic="0.35" bright="0.6"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="360" feedback="0.25" mix="0.18" type="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.5" damping="0.45" mix="0.2"/></Slot>
+</Chain>

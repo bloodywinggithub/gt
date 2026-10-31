@@ -1,0 +1,7 @@
+<Chain>
+  <Slot kind="builtin" id="octave"><Params mode="1" dry="0.7" down="0" up="0.75" down2="0"/></Slot>
+  <Slot kind="builtin" id="fuzz"><Params fuzz="0.75" tone="0.55" level="-16" bias="0.2"/></Slot>
+  <Slot kind="builtin" id="vibrato"><Params rate="1.3" depth="0.45" mix="0.6"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="5" gain="5.5" bass="5" mid="6" treble="6" presence="6" master="-10" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.5" damping="0.5" mix="0.2"/></Slot>
+</Chain>

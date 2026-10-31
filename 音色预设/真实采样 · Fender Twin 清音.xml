@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="comp"><Params threshold="-26" ratio="3" attack="15" release="180" makeup="3"/></Slot>
+  <Slot kind="nam" path="@app/音色库/NAM/Tim R Fender TwinVerb Norm Bright.nam"><Params output="12"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="1" mic="0.4" bright="0.6" level="5"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="2" size="0.5" damping="0.4" mix="0.25"/></Slot>
+</Chain>

@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="wah"><Params mode="1" sensitivity="0.7" resonance="7" mix="1"/></Slot>
+  <Slot kind="builtin" id="fuzz"><Params fuzz="0.85" tone="0.6" level="-18" bias="0.85"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="4" gain="4" bass="5" mid="6" treble="5.5" presence="5" master="-9" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.35" damping="0.5" mix="0.15"/></Slot>
+</Chain>

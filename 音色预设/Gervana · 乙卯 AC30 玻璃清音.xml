@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gv_jiachen"><Params level="3" sustain="0.4" attack="0.6" blend="0.6" trebleBoost="1" tubeSim="0"/></Slot>
+  <Slot kind="builtin" id="gv_yimao"><Params channel="1" normal="5" brilliant="5" bass="4.5" treble="6.5" tonecut="2" master="-8" output="1"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="360" feedback="0.28" mix="0.2" tone="4500" type="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="2" size="0.55" damping="0.4" mix="0.22"/></Slot>
+</Chain>

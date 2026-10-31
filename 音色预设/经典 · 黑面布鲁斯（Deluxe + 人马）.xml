@@ -1,0 +1,5 @@
+<Chain>
+  <Slot kind="builtin" id="overdrive"><Params model="3" drive="10" tone="0.55" level="-4"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="4" gain="5" bass="5" mid="5.5" treble="5.5" presence="5" master="-6" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.45" damping="0.5" mix="0.2"/></Slot>
+</Chain>

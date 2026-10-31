@@ -1,0 +1,5 @@
+<Chain>
+  <Slot kind="builtin" id="distortion"><Params model="1" gain="30" tone="0.45" level="-12" mid="0" tight="120"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="3" gain="3" bass="5" mid="5.5" treble="5" presence="5" master="-6" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.4" damping="0.5" mix="0.14"/></Slot>
+</Chain>

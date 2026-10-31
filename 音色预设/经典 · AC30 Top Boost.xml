@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="amp"><Params voicing="7" gain="5" bass="4.5" mid="5" treble="6.5" presence="5" master="-7" cab="1"/></Slot>
+  <Slot kind="builtin" id="tremolo" bypass="1"><Params rate="5" depth="0.45"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="360" feedback="0.25" mix="0.18" type="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.5" damping="0.45" mix="0.2"/></Slot>
+</Chain>

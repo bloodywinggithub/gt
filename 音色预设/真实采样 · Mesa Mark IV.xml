@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-54" release="60"/></Slot>
+  <Slot kind="nam" path="@app/音色库/NAM/Roman A LT_MESA_MARKIV_1.nam"><Params output="-10.5"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="2" mic="0.3"/></Slot>
+  <Slot kind="builtin" id="delay"><Params time="420" feedback="0.3" mix="0.2" type="2"/></Slot>
+</Chain>

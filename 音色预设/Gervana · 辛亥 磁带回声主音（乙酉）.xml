@@ -1,0 +1,5 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-54" release="60"/></Slot>
+  <Slot kind="builtin" id="gv_yiyou"><Params channel="1" gain="7" volume="-10" low="5" mid="6.5" high="5.5" presence="5.5" resonance="1" output="1"/></Slot>
+  <Slot kind="builtin" id="gv_xinhai"><Params decay="5" mix="0.22" tone="4.5" predelay="35" time="440" feedback="0.45" level="0.34" dtone="3.8" rate="0.9" depth="0.45" reverbOn="1" delayOn="1"/></Slot>
+</Chain>

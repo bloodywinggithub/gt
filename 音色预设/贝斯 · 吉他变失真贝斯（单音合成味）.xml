@@ -1,0 +1,7 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-58" release="80"/></Slot>
+  <Slot kind="builtin" id="comp"><Params threshold="-28" ratio="6" attack="8" release="150" makeup="5"/></Slot>
+  <Slot kind="builtin" id="octave"><Params mode="1" dry="0" down="1" up="0" down2="0"/></Slot>
+  <Slot kind="builtin" id="overdrive"><Params model="0" drive="14" tone="0.35" level="-4" bass="6" blend="0.5"/></Slot>
+  <Slot kind="builtin" id="eq"><Params low="7" mid="1" midFreq="700" high="-8" level="0"/></Slot>
+</Chain>

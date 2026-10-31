@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-56" release="70"/></Slot>
+  <Slot kind="builtin" id="gv_bingzi"><Params level="2" tone="0.55" gain="0.2" blend="1" tight="180" style="0" clip="0"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="6" gain="7" bass="5" mid="6.5" treble="5.5" presence="6" master="-10" cab="1"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="1" size="0.45" damping="0.6" mix="0.14"/></Slot>
+</Chain>

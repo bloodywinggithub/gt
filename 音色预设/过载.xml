@@ -1,0 +1,7 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-60" release="80"/></Slot>
+  <Slot kind="builtin" id="overdrive"><Params drive="16" tone="0.55" level="-5"/></Slot>
+  <Slot kind="builtin" id="amp"><Params gain="4.5" bass="5" mid="6" treble="5.5" presence="5.5" master="-6" cab="1"/></Slot>
+  <Slot kind="builtin" id="delay" bypass="1"><Params time="400" feedback="0.3" mix="0.22" tone="4000"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params size="0.45" damping="0.55" mix="0.18"/></Slot>
+</Chain>

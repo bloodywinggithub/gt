@@ -1,0 +1,11 @@
+把 Gervana 效果器的图片放在这个文件夹里，文件名按下面来（png 或 jpg 都行），软件里的效果器卡片和放大踏板会自动换成图片：
+
+  gv_wuyin.png     戊寅 Wuyin 法兹
+  gv_wuwu.png      戊午 Wuwu Plexi
+  gv_bingzi.png    丙子 Bingzi 过载
+  gv_jiachen.png   甲辰 Jiachen 压缩激励
+  gv_yiyou.png     乙酉 Yiyou Brown Sound
+  gv_yimao.png     乙卯 Yimao AC30
+
+建议：正面照、背景透明或纯色，宽高比大约 2:1 到 1:1，宽 800 像素左右就够。
+换了图片不用重启软件，重新打开效果器就能看到。

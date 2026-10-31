@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-52" release="45"/></Slot>
+  <Slot kind="nam" path="@app/音色库/NAM/Tim R 5152 Lead + TS9.nam"><Params output="-3"/></Slot>
+  <Slot kind="builtin" id="cab"><Params type="2" mic="0.3"/></Slot>
+  <Slot kind="builtin" id="reverb"><Params type="0" size="0.35" damping="0.6" mix="0.08"/></Slot>
+</Chain>

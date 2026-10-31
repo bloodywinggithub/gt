@@ -1,0 +1,8 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-62" release="120"/></Slot>
+  <Slot kind="builtin" id="comp"><Params threshold="-30" ratio="5" attack="12" release="180" makeup="6"/></Slot>
+  <Slot kind="builtin" id="octave"><Params mode="0" dry="0" down="1" up="0" down2="0"/></Slot>
+  <Slot kind="builtin" id="eq"><Params low="6" mid="-3" midFreq="450" high="-9" level="4" midQ="0.8"/></Slot>
+  <Slot kind="builtin" id="comp"><Params threshold="-24" ratio="3" attack="20" release="200" makeup="3"/></Slot>
+  <Slot kind="builtin" id="reverb" bypass="1"><Params type="0" size="0.2" damping="0.7" mix="0.08"/></Slot>
+</Chain>

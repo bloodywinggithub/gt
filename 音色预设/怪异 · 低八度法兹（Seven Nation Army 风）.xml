@@ -1,0 +1,6 @@
+<Chain>
+  <Slot kind="builtin" id="gate"><Params threshold="-58" release="60"/></Slot>
+  <Slot kind="builtin" id="pitch"><Params semis="-12" cents="0" mix="0.55"/></Slot>
+  <Slot kind="builtin" id="fuzz"><Params fuzz="0.8" tone="0.5" level="-16" bias="0.25"/></Slot>
+  <Slot kind="builtin" id="amp"><Params voicing="5" gain="5" bass="6" mid="5.5" treble="5" presence="5" master="-10" cab="1"/></Slot>
+</Chain>

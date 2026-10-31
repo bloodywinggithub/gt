@@ -1,0 +1,4 @@
+<Chain>
+  <Slot kind="builtin" id="gv_wuwu"><Params level="-12" tone="0.6" presence="0.55" brightGain="0.35" normalGain="0.25" voice="0" clip="1" output="1"/></Slot>
+  <Slot kind="builtin" id="gv_xinhai"><Params decay="8.5" mix="0.6" tone="7" predelay="0" time="380" feedback="0.2" level="0.0" dtone="5" rate="0.8" depth="0.1" reverbOn="1" delayOn="0"/></Slot>
+</Chain>
